@@ -1,0 +1,27 @@
+Return-Path: <sam@montrealonline.com.br>
+Delivered-To: <sample@sample.br>
+Received: from server02.sample.br
+	by server02 (Dovecot) with LMTP id r3+sF5/vqFbDYgAAgU8X4g
+	for <sample@sample.br>; Wed, 27 Jan 2016 16:12:41 -0200
+Received: from sam (sample.br [ip_address])
+	by server02.sample.br (Postfix) with ESMTPA id xxxxxxxxx
+	for <adm@sample.br>; Wed, 27 Jan 2016 16:12:40 -0200 (BRST)
+Date: Wed, 27 Jan 2016 16:12:42 -0200
+To: adm@sample.br
+From: "SAM" <sam@sample.br>
+Reply-To: SISTEMA OCOMON <reply-to>
+Subject: SAM
+Message-ID: <xxxxxxxxxxxxxxxxxxxxxxxxxxxx@sam>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.2]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+
+<img src="http://sam/MAIN_LOGO.png" width="200" height="31" style="font-weight: bold;" alt="" /><br />
+Sistema <span style="font-weight: bold;">SAM</span><br />
+content<br />
+Descri&ccedil;&atilde;o t&eacute;cnica: content<br />
+Solu&ccedil;&atilde;o: 
+
+
